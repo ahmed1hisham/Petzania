@@ -12,3 +12,10 @@ The app follows this uplabs design: https://www.uplabs.com/posts/pets-adoption-a
 - Run this command to install pods for iOS `cd ios && pod install && cd ..`
 - To run iOS: `npx react-native run-ios`
 - To run Android: `npx react-native run-android`
+
+
+### App Screenshots
+
+<img src="https://user-images.githubusercontent.com/36399893/143951733-d239db66-4598-4be4-9113-1105b474ef88.png" width="350">
+<img src="https://user-images.githubusercontent.com/36399893/143951653-d9c80140-bf9d-4cc2-ae68-4a63dd12d816.png" width="350">
+
